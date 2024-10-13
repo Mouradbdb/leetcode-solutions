@@ -23,4 +23,4 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 Clone the repository and navigate to the desired problem file to view the solution. You can also run the functions locally with your own inputs to test them.
 
 ```bash
-git clone https://github.com/yourusername/leetcode-solutions.git
+git clone https://github.com/Mouradbdb/leetcode-solutions.git
